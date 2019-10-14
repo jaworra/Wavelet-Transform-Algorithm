@@ -1,4 +1,3 @@
-% Assignment 2 MAT8180
 % Author: John Worrall
 % Description:Given input data, create a ANN (3 layers, 30 hidden nerons, with log sig as activation function
 % linear output function and Levenberg-Marquardt for backpropation).
